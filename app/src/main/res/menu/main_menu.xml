@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2016. Dibuat oleh JalalKun
+  ~ LEGG
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/daftar"
+        android:title="@string/option1"/>
+    <item android:id="@+id/tentang"
+        android:title="@string/tentang"/>
+
+</menu>

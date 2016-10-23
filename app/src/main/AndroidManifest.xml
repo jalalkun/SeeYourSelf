@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2016. Dibuat oleh JalalKun
+  ~ LEGG
+  -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.eeg.jalalkun.seeyourself">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SoalPertama" />
+        <activity android:name=".SoalKedua" />
+        <activity android:name=".SoalKetiga" />
+        <activity android:name=".SoalKeempat" />
+        <activity android:name=".SoalKelima" />
+        <activity android:name=".SoalKeenam" />
+        <activity android:name=".SoalKetujuh" />
+        <activity android:name=".SoalKedelapan" />
+        <activity android:name=".SoalKesembilan" />
+        <activity android:name=".SoalKesepuluh" />
+        <activity android:name=".Hasil" />
+        <activity android:name=".Sejarah" />
+        <activity android:name=".TampilkanPemakai" />
+        <activity android:name=".Tentang"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,110 @@
+<!--
+  ~ Copyright (c) 2016. Dibuat oleh JalalKun
+  ~ LEGG
+  -->
+
+<resources>
+    <string name="app_name">See Your Self</string>
+    <string name="quot">Kenali Lebih Dalam Tentang Diri Anda</string>
+    <string name="mulai">Mulai</string>
+    <string name="lanjut">Selanjutnya</string>
+    <string name="kembali">Selesai</string>
+    <string name="nama">Nama   :</string>
+    <string name="sejarah">Daftar Pemakai</string>
+
+    <!--
+    item option
+    -->
+
+    <string name="option1">Daftar Pemakai</string>
+    <string name="hapusAll">Hapus daftar</string>
+
+    <!--
+    peraturan
+    -->
+
+    <string name="peraturan">Di permainan ini anda diharuskan menjawab 10 pertanyaan yang akan diajukan. Anda harus menjawab dengan hati-hati, karena anda tidak bisa mengulang pertanyaan, dan anda hanya bisa keluar setelah pertanyaan selesai. \nSelamat menggali lebih dalam....!!!</string>
+
+    <!--peringatan tombol kembali-->
+    <string name="judulperingatan">Keluar</string>
+    <string name="peringatan">Apakah anda yakin untuk keluar?</string>
+
+    <string name="masukanangka">Masukan satu angka dari 1 hingga 10</string>
+    <!--/*
+    *teks 10 soal
+    */-->
+
+    <string name="soal1">Bayangkan anda masuk ke suatu hutan. Anda melihat sebuah gubuk yang memiliki sebuah pintu, Bagaimana kondisi pintu itu...?</string>
+    <string name="jawab1no1">Terbuka</string>
+    <string name="jawab2no1">Tertutup</string>
+    <string name="soal2">Setelah anda masuk ke dalam gubuk tersebut, anda melihat sebuah meja. Apa bentuk meja itu...?</string>
+    <string name="jawab1no2">Bulat</string>
+    <string name="jawab2no2">Kotak</string>
+    <string name="jawab3no2">Segitiga</string>
+    <string name="soal3">Anda juga melihat pot tergantung di ruangan itu. Terbuat dari apakah pot itu...?</string>
+    <string name="jawab1no3">Keramik atau tanah liat</string>
+    <string name="jawab2no3">Plastik</string>
+    <string name="jawab3no3">Besi</string>
+    <string name="soal4">Seberapa banyak kah air dalam pot itu...?</string>
+    <string name="jawab1no4">Penuh</string>
+    <string name="jawab2no4">Setengah</string>
+    <string name="jawab3no4">Kosong</string>
+    <string name="soal5">Selanjutnya anda keluar dari gubuk, saat anda berjalan anda menemukan sejumlah kunci. Terbuat dari apakah kunci itu...?</string>
+    <string name="jawab1no5">Emas</string>
+    <string name="jawab2no5">Perak</string>
+    <string name="jawab3no5">Besi</string>
+    <string name="soal6">Ada berapa jumlah kunci itu...?</string>
+    <string name="soal7">Lalu anda berjalan ke depan, dan anda melihat air terjun. Air terjun itu mengalir. Berapa derasnya aliran air terjun itu...?</string>
+    <string name="soal8">Setelah itu anda berjalan ke sebelah kanan, anda melihat sebuah istana. Anda masuk ke dalam istana itu. Di dalam istana terdapat dua buah kolam. Kolam pertama terdapat sejumlah koin yang terbuat dari emas tapi airnya kotor, kolam kedua terdapat banyak sekali koin terbuat dari perak dengan air yang cukup bersih. Pada situasi tersebut apa yang anda lakukan...?</string>
+    <string name="jawab1no8">Mengambil koin emas pada kolam pertama</string>
+    <string name="jawab2no8">Mengambil koin perak pada kolam kedua</string>
+    <string name="jawab3no8">Tidak mengambil apa-apa</string>
+    <string name="soal9">Lalu anda keluar dari istana, dan melihat sebuah kotak harta karun. Seberapa ukuran kotak itu...?</string>
+    <string name="jawab1no9">Besar</string>
+    <string name="jawab2no9">Sedang</string>
+    <string name="jawab3no9">Kecil</string>
+    <string name="soal10">Di sekitar daerah itu anda melihat seekor kuda dan sebuah kotak besar. Oh tidak, tiba-tiba tornado datang. Apa yang anda lakukan...?</string>
+    <string name="jawab1no10">Berlari menggunakan kuda</string>
+    <string name="jawab2no10">Masuk ke dalam kota besar itu</string>
+    <string name="jawab3no10">Berlari ketempat yang lebih aman</string>
+
+
+    <!-- /*
+    *hasil dari soal di atas
+    */-->
+
+    <string name="hasil1no1">Anda orang yang terbuka dengan siapa saja</string>
+    <string name="hasil2no1">Anda termasuk orang yang tertutup</string>
+    <string name="hasil1no2">Anda berteman dengan siapa saja</string>
+    <string name="hasil2no2">Anda selektif dalam memilih teman</string>
+    <string name="hasil3no2">Anda sangat pemilih dalam berteman</string>
+    <string name="hasil1no3">Rendah hati dan berperasaan</string>
+    <string name="hasil2no3">Anda orang yang Fleksibel</string>
+    <string name="hasil3no3">Anda orang yang keras kepala dan egois</string>
+    <string name="hasil1no4">Cita-cita anda sudah tercapai</string>
+    <string name="hasil2no4">Cita-cita anda baru tercapai sebagian</string>
+    <string name="hasil3no4">Cita-cita anda belum tercapai</string>
+    <string name="hasil1no5">Berjiwa besar, penolong dan ramah</string>
+    <string name="hasil2no5">Percaya diri dan kreatif</string>
+    <string name="hasil3no5">Anda orang yang biasa-biasa saja</string>
+    <string name="Hasilno6">Angka 1-10 menunjukkan jumlah teman/sahabat yang anda miliki</string>
+    <string name="hasilno7">Air terjun menunjukkan gairah seks anda, semakin tinggi angka yang ada pilih, semakin tinggi pula gairah seks yang anda milliki</string>
+    <string name="hasil1no8">Anda orangnya matre. Jika mencari pasangan lebih mementingkan kekayaan</string>
+    <string name="hasil2no8">Jika anda mencari pasangan, anda lebih mementingkan tampang atau fisik</string>
+    <string name="hasil3no8">Anda menerima pasangan anda apa adanya</string>
+    <string name="hasil1no9">Termasuk orang egois</string>
+    <string name="hasil2no9">Biasa saja tidak egois</string>
+    <string name="hasil3no9">Orang yang baik hati</string>
+    <string name="hasil1no10">Jika anda mendapat masalah, anda akan membicarakan dengan pasangan atau sahabat anda.</string>
+    <string name="hasil2no10">Anda akan memendam masalah anda</string>
+    <string name="hasil3no10">Jika anda mendapat masalah, anda akan menyelesaikannya sendiri</string>
+    <string name="title_activity_tampilkan_pemakai">TampilkanPemakai</string>
+    <string name="hasil">Hasil</string>
+
+
+    <string name="tentang">Tentang</string>
+    <string name="versi">Versi 1.0</string>
+    <string name="tahun">2016 S3S Inc \nAll rights reserved</string>
+
+
+</resources>

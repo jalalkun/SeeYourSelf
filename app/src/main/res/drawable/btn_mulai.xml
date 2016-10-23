@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2016. Dibuat oleh JalalKun
+  ~ LEGG
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--ketika tombol ditekan-->
+
+    <item android:drawable="@drawable/mulai_tekan"
+        android:state_pressed="true"/>
+
+    <!--ketika tombol dalam keadaan normal-->
+    <item android:drawable="@drawable/mulai"/>
+
+    <!--ketika tombol terfokus-->
+    <item android:drawable="@drawable/mulai_tekan"
+        android:state_focused="true"/>
+
+</selector>

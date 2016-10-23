@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2016. Dibuat oleh JalalKun
+  ~ LEGG
+  -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.eeg.jalalkun.seeyourself.Tentang"
+    android:background="#636363">
+
+    <include android:id="@+id/tentangToolbar"
+        layout="@layout/hasil_toolbar"/>
+
+    <TextView
+        android:textColor="@color/putih"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/versi"
+        android:layout_marginTop="8dp"
+        android:textSize="24sp"
+        android:text="@string/app_name"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:textColor="@color/colorAccent"
+        android:id="@+id/versi"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/logo"
+        android:layout_marginTop="8dp"
+        android:text="@string/versi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/logo"
+        android:layout_marginTop="12dp"
+        android:src="@mipmap/ic_launcher"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_below="@id/logo"
+        android:textColor="@color/colorAccent"
+        android:layout_marginTop="8dp"
+        android:layout_centerHorizontal="true"
+        android:text="@string/tahun"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

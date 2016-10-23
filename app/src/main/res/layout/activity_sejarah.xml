@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2016. Dibuat oleh JalalKun
+  ~ LEGG
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.eeg.jalalkun.seeyourself.Sejarah"
+    android:background="@color/putih">
+
+    <include
+        android:id="@+id/sejarahtoolbar"
+        layout="@layout/tampilkan_pemakai_toolbar"/>
+
+
+    <ListView
+        android:layout_margin="16dp"
+        android:id="@+id/listPemakai"
+        android:scrollbars="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
